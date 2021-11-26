@@ -1,0 +1,10 @@
+C:\Users\ishes\source\repos\KalemUretim\KalemUretim\bin\Debug\KalemUretim.exe.config
+C:\Users\ishes\source\repos\KalemUretim\KalemUretim\bin\Debug\KalemUretim.exe
+C:\Users\ishes\source\repos\KalemUretim\KalemUretim\bin\Debug\KalemUretim.pdb
+C:\Users\ishes\source\repos\KalemUretim\KalemUretim\obj\Debug\KalemUretim.csproj.AssemblyReference.cache
+C:\Users\ishes\source\repos\KalemUretim\KalemUretim\obj\Debug\KalemUretim.Form1.resources
+C:\Users\ishes\source\repos\KalemUretim\KalemUretim\obj\Debug\KalemUretim.Properties.Resources.resources
+C:\Users\ishes\source\repos\KalemUretim\KalemUretim\obj\Debug\KalemUretim.csproj.GenerateResource.cache
+C:\Users\ishes\source\repos\KalemUretim\KalemUretim\obj\Debug\KalemUretim.csproj.CoreCompileInputs.cache
+C:\Users\ishes\source\repos\KalemUretim\KalemUretim\obj\Debug\KalemUretim.exe
+C:\Users\ishes\source\repos\KalemUretim\KalemUretim\obj\Debug\KalemUretim.pdb
